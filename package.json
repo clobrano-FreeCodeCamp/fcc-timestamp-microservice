@@ -17,6 +17,6 @@
   "author": "carlo-lobrano",
   "licence": "MIT",
   "engines": {
-      "node": "4.2.6"
+      "node": "7.10.1"
   }
 }
